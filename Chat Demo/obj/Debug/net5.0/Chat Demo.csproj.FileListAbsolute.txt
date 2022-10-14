@@ -1,0 +1,100 @@
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\appsettings.Development.json
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\appsettings.json
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\libman.json
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.exe
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.deps.json
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.json
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.dev.json
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.dll
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\ref\Chat Demo.dll
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.pdb
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Microsoft.AspNet.SignalR.Core.dll
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.AssemblyReference.cache
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfoInputs.cache
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfo.cs
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CoreCompileInputs.cache
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\scopedcss\bundle\Chat Demo.styles.css
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\staticwebassets\Chat Demo.StaticWebAssets.Manifest.cache
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.RazorTargetAssemblyInfo.cache
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CopyComplete
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.dll
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\ref\Chat Demo.dll
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.pdb
+D:\Route\Cycle 37\09 SignalR\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.genruntimeconfig.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\appsettings.json
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\libman.json
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.exe
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.deps.json
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.json
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.dev.json
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.dll
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.pdb
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.AssemblyReference.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfoInputs.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfo.cs
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\scopedcss\bundle\Chat Demo.styles.css
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\staticwebassets\Chat Demo.StaticWebAssets.Manifest.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.RazorTargetAssemblyInfo.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CopyComplete
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.dll
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\refint\Chat Demo.dll
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.pdb
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.genruntimeconfig.cache
+C:\Users\Mostafa Salah\Downloads\Compressed\SignalR Demo SolutionO\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\ref\Chat Demo.dll
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\appsettings.Development.json
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\appsettings.json
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\libman.json
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.exe
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.deps.json
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.json
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.dev.json
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.dll
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Chat Demo.pdb
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\bin\Debug\net5.0\Microsoft.AspNet.SignalR.Core.dll
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.AssemblyReference.cache
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfoInputs.cache
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfo.cs
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CoreCompileInputs.cache
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\scopedcss\bundle\Chat Demo.styles.css
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\staticwebassets\Chat Demo.StaticWebAssets.Manifest.cache
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.RazorTargetAssemblyInfo.cache
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CopyComplete
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.dll
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\refint\Chat Demo.dll
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.pdb
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\Chat Demo.genruntimeconfig.cache
+F:\Back-end\New folder\SignalR Demo Solution\Chat Demo\obj\Debug\net5.0\ref\Chat Demo.dll
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\appsettings.Development.json
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\appsettings.json
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\libman.json
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\Chat Demo.exe
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\Chat Demo.deps.json
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.json
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\Chat Demo.runtimeconfig.dev.json
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\Chat Demo.dll
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\Chat Demo.pdb
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\bin\Debug\net5.0\Microsoft.AspNet.SignalR.Core.dll
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.AssemblyReference.cache
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfoInputs.cache
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.AssemblyInfo.cs
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CoreCompileInputs.cache
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.MvcApplicationPartsAssemblyInfo.cache
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\scopedcss\bundle\Chat Demo.styles.css
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\staticwebassets\Chat Demo.StaticWebAssets.Manifest.cache
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.RazorTargetAssemblyInfo.cache
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.csproj.CopyComplete
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.dll
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\refint\Chat Demo.dll
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.pdb
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\Chat Demo.genruntimeconfig.cache
+F:\Back-end\SignalR Demo Solution\SignalR Demo Solution OnGithub\Chat Demo\obj\Debug\net5.0\ref\Chat Demo.dll

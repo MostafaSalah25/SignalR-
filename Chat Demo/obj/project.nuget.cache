@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "iMz0uG7ShftWheESgHjkc/flNwIDZhWbGZFiGp9dqJBQ6P8562RlGJwAoAgU9CAroOM6I2qyXixqnsg+GjK5YA==",
+  "success": true,
+  "projectFilePath": "F:\\Back-end\\SignalR Demo Solution\\SignalR Demo Solution OnGithub\\Chat Demo\\Chat Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mostafa Salah\\.nuget\\packages\\microsoft.aspnet.signalr.core\\2.4.3\\microsoft.aspnet.signalr.core.2.4.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.AspNet.SignalR.Core 2.4.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.AspNet.SignalR.Core",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
